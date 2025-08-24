@@ -30,15 +30,15 @@ HomeRentals/
 
 ---
 
-## Getting Started
+Getting Started
 
-### Prerequisites
+Prerequisites
 - Node.js (v14 or later)  
 - npm or Yarn  
 - Java JDK 11 or higher  
 - Maven or Gradle  
 
-### Setup Instructions
+Setup Instructions
 
 1. **Clone the repository**
    ```bash
