@@ -27,7 +27,7 @@ HomeRentals/
 ├── client/    # React frontend application
 └── server/    # Spring Boot backend API
 
-
+````
 ---
 
 Getting Started
@@ -44,7 +44,7 @@ Setup Instructions
    ```bash
    git clone https://github.com/Pav1905/HomeRentals.git
    cd HomeRentals
-````
+
 
 2. **Start the frontend**
 
