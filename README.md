@@ -22,13 +22,11 @@
 ---
 
 ## Project Structure
-```
 
 HomeRentals/
 ├── client/    # React frontend application
 └── server/    # Spring Boot backend API
 
-````
 
 ---
 
